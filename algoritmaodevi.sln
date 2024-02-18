@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "algoritmaodevi", "algoritmaodevi\algoritmaodevi.csproj", "{F678178C-C20C-4C19-9E2B-D2B32D0D61B4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F678178C-C20C-4C19-9E2B-D2B32D0D61B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F678178C-C20C-4C19-9E2B-D2B32D0D61B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F678178C-C20C-4C19-9E2B-D2B32D0D61B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F678178C-C20C-4C19-9E2B-D2B32D0D61B4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {37C18E01-A291-4A75-B84D-6415EBAE1D50}
+	EndGlobalSection
+EndGlobal
